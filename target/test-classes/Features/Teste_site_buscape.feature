@@ -7,7 +7,7 @@ Realizo pesquisa de produtos
 
 Cenário: Deve inserir usuário com sucesso
 Quando clicar em entrar
-E inserir email "severinobento097@gmail.com"
+E inserir email 
 E clicar em continuar
 E inserir um nome
 E clicar no botão para avançar

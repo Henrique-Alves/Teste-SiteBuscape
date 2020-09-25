@@ -11,7 +11,7 @@ import io.cucumber.junit.CucumberOptions.SnippetType;
 		features = "src/test/resources/Features/Teste_site_buscape.feature",
 		glue = "br.hdsa.buscape.steps",
 		tags = "",
-		plugin = {"pretty , html:target/report-html"},
+		plugin = {"pretty", "html:target/report-html"},
 		monochrome = false,
 		snippets = SnippetType.CAMELCASE,
 		dryRun = false
